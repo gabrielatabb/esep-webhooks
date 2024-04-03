@@ -1,0 +1,7 @@
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/gabrielatab/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
